@@ -87,7 +87,7 @@
 
 ## `v-if` 与 `v-for` 一起使用
 
-:::tip 提示
+:::warning 警告
 不推荐同时使用 `v-if` 和 `v-for`。请查阅[风格指南](../style-guide/#avoid-v-if-with-v-for-essential)以获取更多信息。
 :::
 
